@@ -89,6 +89,9 @@ html,body{
     padding: 8px 10px;
     font-size: 14px;
     border-radius: 10px;
+    width: 100%;
+    word-wrap: break-word;
+
 }
 
 .form .user-inbox .msg-header p{
